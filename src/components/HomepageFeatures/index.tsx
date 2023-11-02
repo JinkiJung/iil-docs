@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: undefined,
     description: (
       <>
-        You can use iil for any kind of sequences just like a Lego block.
+        From planning to execution, and from high to low level, you can model any kind of sequences using iil just like a Lego block.
       </>
     ),
   },
