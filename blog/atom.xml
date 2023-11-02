@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jinkijung.github.io/blog</id>
+    <title>iil Blog</title>
+    <updated>2023-11-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jinkijung.github.io/blog"/>
+    <subtitle>iil Blog</subtitle>
+    <icon>https://jinkijung.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://jinkijung.github.io/blog/welcome</id>
+        <link href="https://jinkijung.github.io/blog/welcome"/>
+        <updated>2023-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey, I've made this blog to share the progress on iil model and its application.]]></summary>
+        <content type="html"><![CDATA[<p>Hey, I've made this blog to share the progress on iil model and its application.</p>
+<p>So excited to reveal my idea on how to model every activities in our daily lives!</p>]]></content>
+        <author>
+            <name>Jinki Jung</name>
+            <uri>https://jinkijung.github.io/</uri>
+        </author>
+        <category label="iil" term="iil"/>
+        <category label="first message" term="first message"/>
+    </entry>
+</feed>

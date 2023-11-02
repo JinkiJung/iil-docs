@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiil_docs=self.webpackChunkiil_docs||[]).push([[329],{8036:s=>{s.exports=JSON.parse('{"permalink":"/blog/tags/first-message","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
