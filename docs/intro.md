@@ -12,7 +12,7 @@ The importance of *iil* is to state responsibility and where or how a work shoul
 
 *iil* can help people understand tasks through a clear and concise representation of work which can be used to effectively communicate about work across all levels of an organization.
 
-## Usage of Task Model in Planning and Execution Phases
+## Usage of iil Model in Planning and Execution Phases
 
 The *iil* model plays a crucial role in both planning and execution phases of a process.
 
