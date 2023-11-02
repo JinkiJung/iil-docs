@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>iil Blog</title>
-        <link>https://jinkijung.github.io/blog</link>
+        <link>https://jinkijung.github.io/iil-docs/blog</link>
         <description>iil Blog</description>
         <lastBuildDate>Thu, 02 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://jinkijung.github.io/blog/welcome</link>
-            <guid>https://jinkijung.github.io/blog/welcome</guid>
+            <link>https://jinkijung.github.io/iil-docs/blog/welcome</link>
+            <guid>https://jinkijung.github.io/iil-docs/blog/welcome</guid>
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Hey, I've made this blog to share the progress on iil model and its application.]]></description>
             <content:encoded><![CDATA[<p>Hey, I've made this blog to share the progress on iil model and its application.</p>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiil_docs=self.webpackChunkiil_docs||[]).push([[713],{3457:s=>{s.exports=JSON.parse('[{"label":"iil","permalink":"/blog/tags/iil","count":1},{"label":"first message","permalink":"/blog/tags/first-message","count":1}]')}}]);
