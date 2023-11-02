@@ -25,7 +25,7 @@ function HomepageImage() {
   return (
     <div className="container">
       <div className="text--center">
-        <img src={require('@site/static/img/iil-base.drawio.png').default} className='padding--md'/>
+        <img src={require('@site/static/img/iil-base.drawio.png').default} className='padding--lg'/>
       </div>
     </div>
   )
