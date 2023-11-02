@@ -1,5 +1,5 @@
-import React from 'react';
 import clsx from 'clsx';
+import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 type FeatureItem = {
@@ -10,30 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Versatile and easy to use',
+    Svg: undefined,
     description: (
       <>
-        iil was designed from the ground up to be easily installed and
-        used to describe your work clearly.
+        You can use iil for any kind of sequences just like a Lego block.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Completion matters',
+    Svg: undefined,
     description: (
       <>
-        iil lets you focus on your work.
+        iil helps you to build a mindset on how the work will be completed with <code>finish if</code>.
       </>
     ),
   },
   {
-    title: 'A todo list based on iil',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Dependency and consequence relationships',
+    Svg: undefined,
     description: (
       <>
-        As a demo of iil, a todo list service based on iil model will be provided.
+        iil distinguishes a pairwise relationship between iil models by parent-child and consequence relationships, which helps you to build a divide-and-conquer strategy.
       </>
     ),
   },
@@ -43,10 +42,9 @@ function Feature({title, Svg, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
     </div>
