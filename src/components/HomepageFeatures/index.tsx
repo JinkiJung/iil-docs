@@ -28,11 +28,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Dependency and consequence relationships',
+    title: 'Divide-and-conquer and consequence relationships',
     Svg: undefined,
     description: (
       <>
-        iil distinguishes a pairwise relationship between iil models by parent-child and consequence relationships, which helps you to build a divide-and-conquer strategy.
+        iil distinguishes a pairwise relationship between iil models by parent-child (i.e., task-subtask) and consequence relationships, which helps you to build a divide-and-conquer strategy.
       </>
     ),
   },
