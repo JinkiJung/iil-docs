@@ -2,21 +2,21 @@
 sidebar_position: 2
 ---
 
-# Model - v1.0.0
+# iil
 
-*iil* is defined with the attributes below:
+*iil* is defined as JSON with the attributes below:
 
 ## for work description
 
 - `UUID goal;` : Unique identifier for the goal that the task is associated with.
 
-- `ConditionDto activateIf;` : The condition under which the task is activated.
+- `Condition activateIf;` : The condition under which the task is activated.
 
-- `ActionDto act;` : The action that the task performs.
+- `Action act;` : The action that the task performs.
 
-- `ActorDto actor;` : The actor who performs the task.
+- `Actor actor;` : The actor who performs the task.
 
-- `ConditionDto finishIf;` : The condition under which the task is completed.
+- `Condition finishIf;` : The condition under which the task is completed.
 
 - `Map<String, Object> input;` : The input required for the task.
 
@@ -51,4 +51,4 @@ sidebar_position: 2
 
 ## for exception handling
 
-- `ConditionDto abortIf;` : The condition under which the task is aborted.
+- `Condition abortIf;` : The condition under which the task is aborted.
