@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'iil',
-  tagline: 'a data model for describing work clearly',
+  tagline: 'A work description model',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

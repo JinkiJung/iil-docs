@@ -1,0 +1,9 @@
+{
+    "label": "Relationship",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Relationships between two iils"
+    }
+  }
+  

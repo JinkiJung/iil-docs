@@ -22,10 +22,12 @@ function HomepageHeader() {
 }
 
 function HomepageImage() {
+  const {siteConfig} = useDocusaurusContext();
   return (
     <div className="container">
       <div className="text--center">
-        <img src={require('@site/static/img/iil-base.drawio.png').default} className='padding--lg'/>
+        <div className="padding--lg"><h1>Describe a task step clearly how it starts and finishes.</h1></div>
+        <div><img src={require('@site/static/img/iil-base.drawio.png').default} className='padding--md'/></div>
       </div>
     </div>
   )
@@ -35,7 +37,7 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title} documentation webpage`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <HomepageImage />

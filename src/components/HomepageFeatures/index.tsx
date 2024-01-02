@@ -10,29 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
+    title: 'Completion matters',
+    Svg: undefined,
+    description: (
+      <>
+        Specify the termination conditions of a task step with iil. It helps you to build a mindset on how the work can be done.
+      </>
+    ),
+  },
+  {
+    title: 'Composition and consequence',
+    Svg: undefined,
+    description: (
+      <>
+        The iil model explicitly differentiates between compositional and consequential relationships between iils, enabling an effective divide-and-conquer approach to problem-solving.
+      </>
+    ),
+  },
+  {
     title: 'Versatile and easy to use',
     Svg: undefined,
     description: (
       <>
         From planning to execution, and from high to low level, you can model any kind of sequences using iil just like a Lego block.
-      </>
-    ),
-  },
-  {
-    title: 'Completion matters',
-    Svg: undefined,
-    description: (
-      <>
-        iil helps you to build a mindset on how the work will be completed with <code>finish if</code>.
-      </>
-    ),
-  },
-  {
-    title: 'Divide-and-conquer and consequence relationships',
-    Svg: undefined,
-    description: (
-      <>
-        iil distinguishes a pairwise relationship between iil models by parent-child (i.e., task-subtask) and consequence relationships, which helps you to build a divide-and-conquer strategy.
       </>
     ),
   },
