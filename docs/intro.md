@@ -4,13 +4,22 @@ sidebar_position: 1
 
 # Introduction
 
-*iil* is a work description model for human. 
-The goal of iil is to render all levels (from high- to unit-level) of work in a single representation.
-It's similar to playing with Lego blocks that can be easily assembled and customized.
+Imagine a world where work descriptions transcend complexity, easily understood by individuals and teams across all levels of an organization. This is the vision behind the innovative **iil** model, a data-driven approach to representing work at every stage, from broad goals to granular tasks.
 
-The importance of *iil* is to state responsibility and where or how a work should be started or finished. Also it is possible to represent the relationship between iils such as consequence or super/subtask. 
+At its core, iil aims to revolutionize how we describe work by rendering all levels of work in a single, unified representation. This means ditching the siloed view of tasks and projects, allowing us to grasp the big picture alongside the intricate details.
 
-*iil* can help people understand tasks through a clear and concise representation of work which can be used to effectively communicate about work across all levels of an organization.
+But what truly sets iil apart is its focus on defining *completion criteria*. By clearly stating the specific conditions under which a work item is considered "**done**", iil eliminates ambiguity and ensures everyone is on the same page. This empowers individuals to track progress effectively and hold themselves accountable.
+
+However, iil doesn't stop there. It also introduces two types of relationships between work items: **consequence** and **composition**. These capture the natural flow of work, depicting how tasks depend on each other and how subtasks contribute to larger goals. In simpler terms, think of "subtasks" as the building blocks that bring your "big picture" to life.
+
+The impact of iil is profound. This clear and concise representation of work enables several key benefits:
+
+- **Enhanced understanding**: Teams gain a shared understanding of what needs to be done, how it interconnects, and when it's complete. This fosters collaboration and reduces confusion.
+- **Effective communication**: iil facilitates clear communication across all levels, from team members to executives. Everyone speaks the same language, ensuring alignment and reducing miscommunication.
+- **Improved efficiency**: With a transparent view of work and clear completion criteria, individuals and teams can prioritize tasks effectively and optimize their efforts.
+- **Greater accountability**: Defined completion criteria empower individuals to track progress and hold themselves accountable for results.
+
+Whether you're a seasoned professional or a newcomer to the workforce, iil empowers you to understand and contribute to work with clarity and effectiveness. By providing a universal language for describing work, iil bridges the gap between different levels and functions, paving the way for a more collaborative and productive work environment.
 
 ## Usage of iil Model in Planning and Execution Phases
 
